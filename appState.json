@@ -1,0 +1,87 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "12c21e62-d73d-4ee7-b30d-e8af88993030": {
+        "id": "12c21e62-d73d-4ee7-b30d-e8af88993030",
+        "parent": null,
+        "name": "lambda",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [
+          "43e0d2e7-0090-4e0b-9780-186ad3ca5c72",
+          "12c6a3aa-1d68-4a96-86f4-285d923d66ca",
+          "b0452f2d-c970-4ca9-82d6-cb12ced60129"
+        ],
+        "isRemovable": true,
+        "filePath": "lambda"
+      },
+      "43e0d2e7-0090-4e0b-9780-186ad3ca5c72": {
+        "id": "43e0d2e7-0090-4e0b-9780-186ad3ca5c72",
+        "parent": "12c21e62-d73d-4ee7-b30d-e8af88993030",
+        "name": "ramda.md",
+        "type": "MARKDOWN_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "lambda/ramda.md"
+      },
+      "12c6a3aa-1d68-4a96-86f4-285d923d66ca": {
+        "id": "12c6a3aa-1d68-4a96-86f4-285d923d66ca",
+        "parent": "12c21e62-d73d-4ee7-b30d-e8af88993030",
+        "name": "README.md",
+        "type": "MARKDOWN_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "lambda/README.md"
+      },
+      "b0452f2d-c970-4ca9-82d6-cb12ced60129": {
+        "id": "b0452f2d-c970-4ca9-82d6-cb12ced60129",
+        "parent": "12c21e62-d73d-4ee7-b30d-e8af88993030",
+        "name": "javascript.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "lambda/javascript.js"
+      }
+    },
+    "openFiles": [],
+    "currentFileId": "",
+    "resources": {},
+    "customTemplate": {
+      "dialect": "CloudFormation",
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "MyProject",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1589261999237
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "myproject",
+      "url": "https://github.com/zgma-test/myproject"
+    }
+  }
+}
